@@ -1,0 +1,27 @@
+{
+  "name": "manage-amounts",
+  "version": "1.0.0",
+  "description": "Classes and types to manage and format currency amounts with full precision",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallbatch-apps/manage-amounts.git"
+  },
+  "keywords": [
+    "amounts",
+    "currency",
+    "crypto"
+  ],
+  "author": "Matt Burgess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallbatch-apps/manage-amounts/issues"
+  },
+  "homepage": "https://github.com/smallbatch-apps/manage-amounts#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.2"
+  }
+}
